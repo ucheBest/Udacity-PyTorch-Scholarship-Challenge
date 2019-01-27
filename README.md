@@ -30,4 +30,4 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 ### Lesson 9: Deploying Pytorch Models
 In this lesson, we'll work you through a tutorial showing how to deploy Pytorch models with Torch Script.
 ## Challenge Project
-[Build and train a model that identifies 102 flower species from image](https://github.com/ucheBest/Udacity-PyTorch-Scholarship-Challenge/blob/master/Lab%20Challenge-Project/Image_Classifier_Project.ipynb)
+[Build and train a model that identifies 102 flower species from images](https://github.com/ucheBest/Udacity-PyTorch-Scholarship-Challenge/blob/master/Lab%20Challenge-Project/Image_Classifier_Project.ipynb)
