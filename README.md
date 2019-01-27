@@ -1,5 +1,5 @@
 # Udacity-PyTorch-Scholarship-Challenge
-## A collection of projects done as part of Udacity's PyTorch Scholarship Challenge Nanodegree Program.
+## A collection of notebooks and projects done as part of Udacity's PyTorch Scholarship Challenge Nanodegree Program.
 ### Lesson 1: Welcome to the Scholarship Challenge!
 Welcome to the course! Here we'll get you oriented and set up for the sucess in the course
 ### Lesson 2: Introduction to Neural Networks
